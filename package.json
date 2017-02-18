@@ -1,0 +1,23 @@
+{
+  "name": "ball",
+  "version": "1.0.0",
+  "description": "this is h5 game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jinguang1995/ballGame.git"
+  },
+  "author": "sunguang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jinguang1995/ballGame/issues"
+  },
+  "homepage": "https://github.com/jinguang1995/ballGame#readme",
+  "devDependencies": {
+    "gulp-concat": "^2.6.1",
+    "gulp-uglify": "^2.0.1"
+  }
+}
